@@ -11,6 +11,11 @@ ves que hay  un archivo?
 si
 Mira los siguientes pasos
 
+GitHub deskop identifica todos los nuevos archivo de esa carpeta.
+Luego, tú tienes que hacer COMMIT
+Y luego clic en Publish Branch (esto hace que se suba a tu repositorio, es decir va de local a la nube)
+
+
 En GitHub desktop ha iden
 como hciste arq eu aliera la carpeta en el guthub
 Eso fue un paso anterior
